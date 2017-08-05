@@ -1,7 +1,7 @@
 # A simple RESTful web service with JavaScript, Node, Express, Mysql
 
 RESTful Web Services are basically REST Architecture based Web Services. In REST Architecture everything is a resource.
-RESTful web services are light weight, highly scalable and maintainable and are very commonly used to create APIs for web-based applications. This is a simple RESTful web service with JavaScript, Node, Express, Mysql.
+RESTful web services are light weight, highly scalable and maintainable and are very commonly used to create APIs for web-based applications. This is a simple RESTful web service with **JavaScript, Node, Express, Mysql**.
 
 ### Install Required packages
 
